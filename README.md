@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacketh94
 - 👀 I’m interested in mountain biking, geology, photography and skateboarding!
 - 🌱 I’m currently learning pyhon and AWS cloud computing
-- 💞️ I’m looking to collaborate on entry level AWS and python projjects
+- 💞️ I’m looking to collaborate on entry level AWS and python projects
 - 📫 How to reach me: jacktgmason@hotmail.co.uk, linkedin.com/in/jack-glanville-mason/
 
 <!---
